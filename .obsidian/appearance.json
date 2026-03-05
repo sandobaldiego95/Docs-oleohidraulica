@@ -1,0 +1,13 @@
+{
+  "accentColor": "#e6b41f",
+  "cssTheme": "Minimal",
+  "baseFontSize": 14,
+  "textFontFamily": "Bookman Old Style,iA Writer Quattro S,Times New Roman,Sans Forgetica,Verdana,Book Antiqua",
+  "interfaceFontFamily": "Inter,Bookman Old Style",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "callouts"
+  ],
+  "theme": "obsidian",
+  "showRibbon": false
+}

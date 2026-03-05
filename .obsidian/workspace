@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "6a0c0a3d6caa6250",
+    "type": "split",
+    "children": [
+      {
+        "id": "07670eb756d76922",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "{ texto adicional - fundamentos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25cb0ac1b7b4c939",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0c305aa7da6f80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "577678bddebde4bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "338ccf346e9430fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#world",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f5196b90cfacc2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cb99df197fd9bac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78fa4cc87cf16b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ebbb2528ce8a6f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "{ texto adicional - fundamentos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b6da943e41c3a6d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "879f8b03ad359bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "{ texto adicional - fundamentos.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 190,
+    "collapsed": true
+  },
+  "active": "07670eb756d76922",
+  "lastOpenFiles": [
+    "Plantillas/{ Texto adicional 1 - fundamentos.md",
+    "Plantillas/Nota.md",
+    "Plantillas/Cornell.md",
+    "% this.md",
+    "+ funcion anonima.md",
+    "% map, filter, reduce.md",
+    "% closures.md",
+    "+ API (de un objeto).md",
+    "+ Ambito lexico.md",
+    "Plantillas/Videos.md"
+  ]
+}

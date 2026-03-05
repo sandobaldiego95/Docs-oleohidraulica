@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "87bec2a1814cf734",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f9608fe4634b5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c108beb299cc3eae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2dfda798061cc20",
+    "type": "split",
+    "children": [
+      {
+        "id": "84ac7dfe58a9cf76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2dece7d9c963efa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "70a5e7fdd4da5e6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b0e2ef3af6cfe7ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "afba483c343814c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f448959aced6e8f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c357a30103fc0e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "4c454b3a145290b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9aab21a14fc5ec83",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "3126a52fa6156bd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota al azar": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "70a5e7fdd4da5e6b",
+  "lastOpenFiles": [
+    "Ejecución #2 31a920fe8a66816ebdc8daab1f8aa7bc.md",
+    "Ejecución #1 31a920fe8a6681e4a5f1e7304b95b06c.md",
+    "Ejecución #1 31a920fe8a6681e09102c19735ed4a8f.md",
+    "PT-PS-01 Prototipado del Sistema (Plantilla) 31a920fe8a6681319592cd2ebbc45196.md",
+    "PT-PP-01 Plan de Pruebas (Plantilla) 31a920fe8a6681778714ee3385b8f569.md",
+    "Ejecución #1 31a920fe8a66819580f9ded4d95580a3.md",
+    "Ejecución #1 31a920fe8a6681309e14f0de9cc35df3.md",
+    "Sin título.md",
+    "NestJS curso apuntes.md",
+    "apuntes MOC.md",
+    "Apuntes.base",
+    "Sin título.base",
+    "Parrafos de idiomas con palabras mas usadas.md",
+    "Typescript MOC.md",
+    "Metodologia para aprender sobre cualquier tema.md",
+    "Checklist a cumplir para pasar la entrevista de backend con nodejs.md",
+    "Notas importantes - android.md",
+    "Libreria de prompts.md",
+    "ver estos videos y eliminar.md",
+    "Seguimiento de cursos.md",
+    "metodo para extraer links de videos de youtube con codigo.md",
+    "Herramientas MOC.md",
+    "Notas de los cursos de escuelaIt.md",
+    "preguntas para redes.md",
+    "Cadena logica de conceptos de redes.md",
+    "apuntes de redes.md",
+    "Cadena logica de conceptos de redes (TCP/IP).md",
+    "Cadena logica de conceptos de redes (TCP",
+    "Preguntas ordenadas para el oral de redes.md",
+    "anexos/Pasted image 20260113194700.png",
+    "anexos/Pasted image 20260113194652.png",
+    "anexos/Pasted image 20251202234233.png",
+    "anexos/Pasted Image 20250918184742_690.svg",
+    "anexos/Pasted Image 20250918184640_286.png",
+    "anexos/kubernetes.png",
+    "anexos/icon/Docker.png",
+    "anexos/icon/seguridad.png",
+    "anexos/icon/CI-CD.png",
+    "anexos/icon/ServidoresWeb.png",
+    "anexos/Recording 20250819214659.m4a",
+    "anexos/Recording 20250819214513.m4a",
+    "anexos/Recording 20250819213941.m4a",
+    "anexos/Recording 20250819213745.m4a",
+    "Base de datos obsidian.base"
+  ]
+}
